@@ -6,7 +6,7 @@ author: "Sergiu"
 language: "English"
 tags: ["OBS", "PowerPoint", "OnlineMeetings", "OnlineTalks", "software", "software engineering"]
 categories: ["Remote Presentations"]
-images: [{'src':'/obs-online-presentations/obs-online-presentations-title.jpg', 'alt': 'Denmark in May', 'stretch': 'horizontal'}]
+images: [{'src':'/obs-online-presentations-title.jpg', 'alt': 'Denmark in May', 'stretch': 'horizontal'}]
 --- 
 
 # STREAM Camera in PowerPoint 
